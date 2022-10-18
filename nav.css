@@ -1,0 +1,28 @@
+<title></title>
+body{
+	margin:0%;
+}
+		.navbar{
+			background-color: deeppink;
+			color: white;
+			width: 100%;
+			padding: 1%;
+			text-align: center; 
+		}
+		.navbar a{
+			text-decoration:none;
+			color: white;
+			margin-right: 10%;
+			font-size: 25px;
+
+		}
+		
+		
+
+		
+	</style>/head>
+<body><nav class="navbar">
+	<a href="index.html">index</a>
+	<a href="login.html">login</a>
+	<a href="wikipidia.html">biography</a>
+	</nav>
