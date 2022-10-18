@@ -1,7 +1,4 @@
 <title></title>
-body{
-	margin:0%;
-}
 		.navbar{
 			background-color: deeppink;
 			color: white;
@@ -14,15 +11,6 @@ body{
 			color: white;
 			margin-right: 10%;
 			font-size: 25px;
-
 		}
-		
-		
 
-		
-	</style>/head>
-<body><nav class="navbar">
-	<a href="index.html">index</a>
-	<a href="login.html">login</a>
-	<a href="wikipidia.html">biography</a>
-	</nav>
+
